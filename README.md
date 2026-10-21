@@ -4,7 +4,7 @@ Welcome to my technical portfolio! I am building my skills in IT infrastructure 
 ---
 
 ## 🛠️ IT & Infrastructure Labs
-* **[Project Title 1](LINK_WILL_GO_HERE)** - A 1-sentence summary of what this IT lab does and the main tools you used.
+* **[Project Title 1](https://github.com/Christian-T-97/Compromised-Windows-Machine)** - A 1-sentence summary of what this IT lab does and the main tools you used.
 * **[Project Title 2](LINK_WILL_GO_HERE)** - A 1-sentence summary of your second IT project.
 
 ## 🔒 Cybersecurity Labs
