@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Christian 👋
+Welcome to my technical portfolio! I am building my skills in IT infrastructure and cybersecurity.
 
-<!--
-**Christian-T-97/Christian-T-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ IT & Infrastructure Labs
+* **[Project Title 1](LINK_WILL_GO_HERE)** - A 1-sentence summary of what this IT lab does and the main tools you used.
+* **[Project Title 2](LINK_WILL_GO_HERE)** - A 1-sentence summary of your second IT project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔒 Cybersecurity Labs
+* **[Project Title 3](LINK_WILL_GO_HERE)** - A 1-sentence summary of what this cyber lab does (e.g., SIEM, Threat Hunting).
+* **[Project Title 4](LINK_WILL_GO_HERE)** - A 1-sentence summary of your second cyber project.
+
+---
+
+## 💻 Tech Stack & Tools
+* **OS:** Windows Server, Ubuntu Linux, Kali Linux
+* **Networking/Cloud:** Cisco Packet Tracer, AWS
+* **Security & Analysis:** Wireshark, Nmap, Splunk
